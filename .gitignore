@@ -1,0 +1,14 @@
+# Dependências do Node.js
+node_modules/
+
+# Arquivos de variáveis de ambiente (Segredos)
+.env
+
+# Logs de erro (caso o npm falhe)
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos gerados pelo sistema operacional (Windows/Mac)
+.DS_Store
+Thumbs.db
